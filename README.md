@@ -1,2 +1,2 @@
 # sug-platforms
-student union platform for the ict university
+Find hairdressers around your area
